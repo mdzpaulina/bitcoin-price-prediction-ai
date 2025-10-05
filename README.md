@@ -1,3 +1,5 @@
+# Bitcoin Price Prediction with Machine Learning and Sentiment Analysis
+
 📜 Project Description
 This project aims to develop a prediction model for the price of Bitcoin (BTC) using Machine Learning techniques. The project is divided into two main phases:
 
